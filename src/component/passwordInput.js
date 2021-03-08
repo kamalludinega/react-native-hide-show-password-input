@@ -2,7 +2,7 @@ import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import PropTypes from "prop-types";
-import { TextField } from 'react-native-material-textfield';
+import { TextField } from 'rn-material-ui-textfield';
 
 class PasswordInputText extends React.Component {
 
